@@ -29,7 +29,7 @@
     
 ### Demeter
 
-  Demeter is a Django application that utilizes the SciPy libraries to perform linear regression, multiple linear regression, the fourier transformation, fibonacci analysis, the hankel tranformation, and others on collected data
+  Demeter is a Django application that utilizes the SciPy libraries to perform linear regression, multiple linear regression, the fourier transformation, fibonacci analysis, the hankel tranformation, and others on collected data.
   **Additions Proposed:**
   * Adding Matplotlib graphs to the admin dashboard for further analysis
   * AWS database management and machine learning algorithms
