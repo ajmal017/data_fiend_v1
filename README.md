@@ -23,22 +23,22 @@
 ### Hera
 
   Hera is a (very primordial staging area for crunchy metaprogramming concepts and) Rails application that fetches current and historical data from Coinbase.
-  **Additions Proposed:**
-  * A chron job to query Coinbase every set interval for cryptocurrency market data
-  * Integration with Block.IO API and/or other APIs that are faster than Coinbase
+    **Additions Proposed:**
+    * A chron job to query Coinbase every set interval for cryptocurrency market data
+    * Integration with Block.IO API and/or other APIs that are faster than Coinbase
     
 ### Demeter
 
   Demeter is a Django application that utilizes the SciPy libraries to perform linear regression, multiple linear regression, the fourier transformation, fibonacci analysis, the hankel tranformation, and others on collected data.
-  **Additions Proposed:**
-  * Adding Matplotlib graphs to the admin dashboard for further analysis
-  * AWS database management and machine learning algorithms
-  * Change from Postgresql to Neo4j, a non-relational graph database that would be more easily traversed by a neural network
+    **Additions Proposed:**
+    * Adding Matplotlib graphs to the admin dashboard for further analysis
+    * AWS database management and machine learning algorithms
+    * Change from Postgresql to Neo4j, a non-relational graph database that would be more easily traversed by a neural network
   
 ### Daedalus
 
   Daedalus would be a neural network that would eventually be able to ask every other subapplication for data and statistical advice, which it would then learn to optimize.
-  **Proposed Features:**
-  * Bayesian propogation of "neuron objects"
-  * Abstraction and serialization of mathematical functions into objects (in a very clever and Godelian kind of way obviously), to be combined at will. Because why not.
-  * Magic
+    **Proposed Features:**
+    * Bayesian propogation of "neuron objects"
+    * Abstraction and serialization of mathematical functions into objects (in a very clever and Godelian kind of way obviously), to be combined at will. Because why not.
+    * Magic
